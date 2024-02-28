@@ -1,6 +1,9 @@
 let label = document.querySelector('#label');
+
 let btnDecrement = document.querySelector('#decrement');
+
 let btnReset = document.querySelector('#reset');
+
 let btnIncrement = document.querySelector('#increment');
 
 let currentValue = 0;
