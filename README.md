@@ -1,6 +1,6 @@
 <h1>Enxhi's Counter 🧮👩‍💻 </h1>
 
-I created this super easy counter as my first Javascript project to practice a little!
+I created this super easy counter as my first friendly beginner Javascript project to practice a little!
 <br>
 This is the view of my project:
 <br>
