@@ -1,24 +1,21 @@
-let label = document.querySelector('#label');
-
-let btnDecrement = document.querySelector('#decrement');
-
-let btnReset = document.querySelector('#reset');
-
-let btnIncrement = document.querySelector('#increment');
+const btnIncrement = document.getElementById("increment");
+const btnReset = document.getElementById("reset");
+const btnDecrement = document.getElementById("decrement");
+const counterLabel = document.getElementById("label");
 
 let currentValue = 0;
 
 btnIncrement.addEventListener("click",() =>{
     currentValue++;
-    label.textContent = currentValue;
+    counterLabel.textContent = currentValue;
 });
 
 btnDecrement.addEventListener("click",() =>{
     currentValue--;
-    label.textContent = currentValue;
+    counterLabel.textContent = currentValue;
 });
 
 btnReset.addEventListener("click",() =>{
     currentValue = 0;
-    label.textContent = currentValue;
+    counterLabel.textContent = currentValue;
 });
