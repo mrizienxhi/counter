@@ -32,7 +32,7 @@ h1 {
   color: rgba(114, 50, 149, 0.698);
 }
 
-.container {
+#container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -44,7 +44,7 @@ h1 {
   cursor: url("../images/pinkpointer.png"), auto;
 }
 
-.counter-body {
+#bodyCounter {
   display: block;
   background-color: white;
   padding: 20px 20px;
@@ -52,14 +52,14 @@ h1 {
   height: 100%;
 }
 
-.counter-buttons {
+#btnCounter {
   display: flex;
   justify-content: center;
   margin-top: 30px;
   padding-bottom: 15px;
 }
 
-.counter-buttons button {
+#btnCounter button {
   color: #000000a3;
   padding: 10px 30px;
   font-size: 50px;
@@ -96,12 +96,12 @@ button#reset:hover {
 }
 
 @media (max-width: 700px) {
-  .container {
+  #container {
     height: auto;
     width: 300px;
   }
 
-  .counter-buttons {
+  #btnCounter {
     flex-direction: column;
     align-items: center;
   }
