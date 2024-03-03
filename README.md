@@ -5,7 +5,10 @@ I created this super easy counter as my first Javascript project to practice a l
 This is the view of my project:
 <br>
 
-![image](https://github.com/mrizienxhi/counter/assets/99075038/effb73cb-066c-4398-a605-a6c56f0779fc)
+![image](https://github.com/mrizienxhi/counter/assets/99075038/e03f23f7-a315-425a-8f78-dd31d5eba54e) 
+<br>
+<br>
+When you first click any of those buttons, instead of the image, you'll se a number: it depends on the button you press first.<br><br>
 
 Here is the link widh which you can reach the page to try my counter:  https://mrizienxhi.github.io/counter/
 <br><br>
