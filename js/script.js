@@ -31,7 +31,7 @@ btnDecrement.innerText = "-";
 btnReset.innerText = "Reset";
 btnIncrement.innerText = "+";
 
-//making the counter works:
+//making the counter works
 let currentValue = 0;
 
 btnIncrement.addEventListener("click", () => {
