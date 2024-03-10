@@ -5,7 +5,8 @@ I created this super easy counter as my first friendly beginner Javascript proje
 This is the view of my project:
 <br>
 
-![image](https://github.com/mrizienxhi/counter/assets/99075038/e03f23f7-a315-425a-8f78-dd31d5eba54e) 
+![image](https://github.com/mrizienxhi/counter/assets/99075038/0279268b-7e7b-4c9f-9844-ec0e858a4936)
+ 
 <br>
 <br>
 When you first click any of those buttons, instead of the image, you'll se a number: it depends on the button you press first.<br><br>
